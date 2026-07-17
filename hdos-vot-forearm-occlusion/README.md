@@ -292,7 +292,3 @@ This is a visualization convenience only — it does not affect the numerical ba
 ## Acknowledgments
 
 Data and analysis pipeline developed as part of the **MINDLAB Frontiers Research School**, ICFO — Institut de Ciències Fotòniques, Barcelona (July 2026), during the diffuse optics hands-on laboratory sessions.
-
-## License
-
-*(Add your preferred license here — e.g., MIT for the analysis code. Note that any raw physiological data should not be publicly redistributed without appropriate ethical/consent clearance, per the informed-consent framework under which it was collected.)*
